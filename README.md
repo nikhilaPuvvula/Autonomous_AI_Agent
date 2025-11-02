@@ -17,6 +17,8 @@ Features
 6) User-Friendly UI: Built with Streamlit for interactive chat-like experience.
 
 Project Structure
+
+```
 Autonomous_AI_Agents/
 │
 ├── agents/
@@ -28,4 +30,5 @@ Autonomous_AI_Agents/
 │
 ├── .env                  
 ├── requirements.txt      
-└── README.md            
+└── README.md
+```          
