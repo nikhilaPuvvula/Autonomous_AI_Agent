@@ -1,4 +1,4 @@
-🤖 Autonomous AI Agent
+**🤖 Autonomous AI Agent**
 
 An intelligent, modular AI system built using LangChain, LangGraph, and OpenAI that can:
 1) Fetch real-time weather,
